@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Felix Fernando, an Undergraduate Student of Institut Teknologi Bandung, Faculty Of Mathematics and Natural Sciences.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Flutter
 - 📫 How to reach me: https://www.linkedin.com/in/felix-fernando-8974061b9/
 
 <!--
