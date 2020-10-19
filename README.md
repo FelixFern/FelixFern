@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm Felix Fernando, now studying in Institut Teknologi Bandung as an Undergraduate Student on Faculty Of Mathematics and Natural Sciences.
+### I usually code in Python 
 
 <!--
 **FelixFern/FelixFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
