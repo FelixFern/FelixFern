@@ -2,6 +2,7 @@
 I'm Felix Fernando, an Undergraduate Student of Institut Teknologi Bandung, Faculty Of Mathematics and Natural Sciences.
 - 🌱 I’m currently trying to learn Python as my main programming language
 - 📫 How to reach me (LinkedIn) : https://www.linkedin.com/in/felix-fernando-8974061b9/
+- Codeforces : http://codeforces.com/profile/Ferns
 
 <!--
 **FelixFern/FelixFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
