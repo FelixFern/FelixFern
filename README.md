@@ -3,6 +3,7 @@ I'm Felix Fernando, a Mathematics Undergraduate Student at Institut Teknologi Ba
 - 🌱 I’m currently trying to learn Python as my main programming language
 - 📫 How to reach me (LinkedIn) : https://www.linkedin.com/in/felix-fernando-8974061b9/
 - Codeforces : http://codeforces.com/profile/Ferns
+- Leetcode : https://leetcode.com/felixzhuang12348/
 
 <!--
 **FelixFern/FelixFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
