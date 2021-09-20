@@ -5,7 +5,8 @@ I'm Felix Fernando, a Mathematics Undergraduate Student at Institut Teknologi Ba
 - Codeforces : http://codeforces.com/profile/Ferns
 - Leetcode : https://leetcode.com/felixzhuang12348/
 
-![Visitor Count](https://profile-counter.glitch.me/FelixFern/count.svg)
+Visitor Count : 
+![Visitor Count](https://komarev.com/ghpvc/?username=FelixFern)
 <!--
 **FelixFern/FelixFern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
