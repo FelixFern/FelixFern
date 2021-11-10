@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 I'm Felix Fernando, a Mathematics Undergraduate Student at Institut Teknologi Bandung, Faculty Of Mathematics and Natural Sciences.
-- 🌱 I’m currently trying to learn Python as my main programming language
+- 🌱 I’m currently trying to learn Python, React, and Dart
 - 📫 How to reach me (LinkedIn) : https://www.linkedin.com/in/felix-fernando-8974061b9/
 - Codeforces : http://codeforces.com/profile/Ferns
 - Leetcode : https://leetcode.com/felixzhuang12348/
