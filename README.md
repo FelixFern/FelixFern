@@ -15,5 +15,5 @@ I'm Felix Fernando, a Mathematics Undergraduate Student at Institut Teknologi Ba
 
 ## 📊 Github Stats / Activity
 <img src="https://github-readme-stats.vercel.app/api?username=FelixFern&show_icons=true" alt="github stats" width="45%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixFern&layout=compact" alt="github stats" width="37%" align="left"/> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixFern&layout=compact" alt="github stats" width="37.5%" align="left"/> 
 
