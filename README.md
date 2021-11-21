@@ -1,7 +1,7 @@
 ## Hi there 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=FelixFern) <br>
 I'm Felix Fernando, a Mathematics Undergraduate Student at Institut Teknologi Bandung, Faculty Of Mathematics and Natural Sciences.
-- 🌱 I’m currently trying to learn Python, React, and Dart
+- 🌱 I’m currently trying to learn Python, React, and Flutter
 - 📫 How to reach me (LinkedIn) : https://www.linkedin.com/in/felix-fernando-8974061b9/
 - Codeforces : http://codeforces.com/profile/Ferns
 - Leetcode : https://leetcode.com/felixzhuang12348/
