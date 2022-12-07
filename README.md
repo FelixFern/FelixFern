@@ -17,5 +17,5 @@ I'm Felix Fernando, a Mathematics Undergraduate Student at Bandung Institute of 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ## 📊 Github Stats / Activity
-<img src="https://github-readme-stats.vercel.app/api?username=FelixFern&show_icons=true" alt="github stats" width="45%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelixFern&layout=compact" alt="github stats" width="37.5%" align="left"/> 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixfern&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixfern&theme=default)
+
