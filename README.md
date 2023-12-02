@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=FelixFern) <br>
-I'm Felix Fernando, a Mathematics Undergraduate Student at Bandung Institute of Technology, I usually do frontend development stuff, small bits of data science, and applied mathematics. 
+I'm Felix Fernando, a Mathematics Undergraduate Student at Bandung Institute of Technology, I usually do frontend development stuff, small bits of data science, and applied mathematics. Also currently, I'm learning backend development to be a (real) software engineer.
 - LinkedIn : https://www.linkedin.com/in/felix-fern/
 - Codeforces : http://codeforces.com/profile/Ferns/
 - Leetcode : https://leetcode.com/felixzhuang12348/
