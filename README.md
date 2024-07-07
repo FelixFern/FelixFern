@@ -3,7 +3,7 @@
 I'm Felix Fernando, a Mathematics Undergraduate Student at Bandung Institute of Technology, I usually do frontend development stuff, small bits of data science, and applied mathematics. Also currently, I'm learning backend development to be a (real) software engineer.
 - LinkedIn: https://www.linkedin.com/in/felix-fern/
 - Codeforces: http://codeforces.com/profile/Ferns/
-- Leetcode: https://leetcode.com/felixzhuang12348/
+- Leetcode: https://leetcode.com/u/felixfern_/
 - Kaggle: https://www.kaggle.com/felixfernando/
  
 ## 💻 Stacks / Programming Language / Libraries / Frameworks
