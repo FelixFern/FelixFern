@@ -1,6 +1,6 @@
 ## Hi there 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=FelixFern) <br>
-I'm Felix Fernando, a fresh mathematics undergraduate from Bandung Institute of Technology and currently a software engineer (Web) at Traveloka. I usually do front-end development stuff, small bits of data science, and applied mathematics. Also currently, I'm learning backend development to be a (real) software engineer.
+I'm Felix Fernando, a mathematics undergraduate fresh graduate from Bandung Institute of Technology and currently a software engineer (Web) at Traveloka. I usually do front-end development stuff, small bits of data science, and applied mathematics. Also currently, I'm learning backend development to be a (real) software engineer.
 - LinkedIn: https://www.linkedin.com/in/felix-fern/
 - Codeforces: http://codeforces.com/profile/Ferns/
 - Leetcode: https://leetcode.com/u/felixfern_/
