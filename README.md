@@ -1,13 +1,13 @@
 ## Hi there 👋
 ![Visitor Count](https://komarev.com/ghpvc/?username=FelixFern) <br>
-I'm Felix Fernando, a mathematics undergraduate fresh graduate from Bandung Institute of Technology and currently a software engineer (Web) at Traveloka. I mostly do front-end development related stuff, small bits of data science, and applied mathematics.
+I'm Felix Fernando, currently a software engineer (Web) at Traveloka. I mostly do front-end development related stuff, small bits of data science, and applied mathematics.
 - LinkedIn: https://www.linkedin.com/in/felix-fern/
 - Codeforces: http://codeforces.com/profile/Ferns/
 - Leetcode: https://leetcode.com/u/felixfern_/
 - Kaggle: https://www.kaggle.com/felixfernando/
  
 ## 💻 Stacks / Programming Language / Libraries / Frameworks
-#### Web Based: 
+#### Web Engineering: 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![SolidJS](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) 
 
 #### Data Science / Machine Learning:
