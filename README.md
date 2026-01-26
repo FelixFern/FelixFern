@@ -21,10 +21,3 @@ I'm Felix Fernando, currently a software engineer (Web) at Traveloka. I mostly d
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) 
 
-
-## 📊 Github Stats / Activity
-<div style={{display:"flex"}}>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=felixfern&theme=default"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=felixfern&theme=default"/> 
-</div>
-
