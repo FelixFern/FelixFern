@@ -1,5 +1,4 @@
 ## Hi there 👋
-![Visitor Count](https://komarev.com/ghpvc/?username=FelixFern) <br>
 I'm Felix Fernando, currently a software engineer (Web) at Traveloka. I mostly do front-end development related stuff, small bits of data science, and applied mathematics.
 - LinkedIn: https://www.linkedin.com/in/felix-fern/
 - Codeforces: http://codeforces.com/profile/Ferns/
